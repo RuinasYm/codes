@@ -32,8 +32,8 @@
       document.getElementById('age-dialog').style.display = 'none';
       document.getElementById('age-dialog-overlay').style.display = 'none';
     } else {
-      alert("Lo sentimos, este contenido no es apto para menores de edad.");
-      window.location.href = "https://www.google.com"; 
+      alert("We're sorry, this content is not suitable for minors.");
+      window.location.href = "http://atticus.icu"; 
     }
   }
 
